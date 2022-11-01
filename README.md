@@ -12,3 +12,6 @@
     * sfml-main-d.lib
 * you may not have a folder named x64 or x86 , if you don't you need to build the project once (dismiss the error) then go to SFML-2.5.1\bin and copy all the dll files
   (we don't all of them) and paste them in x64/debug where you have the exe file
+  
+  
+  ### to increase the speed of the visualization just change the value of the delay time on the 9th line
