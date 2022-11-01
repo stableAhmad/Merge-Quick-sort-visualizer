@@ -10,4 +10,5 @@
     * sfml-window-d.lib
     * sfml-graphics-d.lib
     * sfml-main-d.lib
-* the dll files are already in directory of the exe file , just run build and run
+* you may not have a folder named x64 or x86 , if you don't you need to build the project once (dismiss the error) then go to SFML-2.5.1\bin and copy all the dll files
+  (we don't all of them) and paste them in x64/debug where you have the exe file
